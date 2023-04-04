@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Azure-OpenAI-Bot-with-MSTeams",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Migrating-DB-from-Single-Server-To-Flexible-Postgres/main/01-Getting-started.md",
+        "Order": 1
+      },
+       {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Migrating-DB-from-Single-Server-To-Flexible-Postgres/main/Overview.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Migrating-DB-from-Single-Server-To-Flexible-Postgres/main/02.md",
+        "Order": 3
+      }
+    ]
+  }
+]
