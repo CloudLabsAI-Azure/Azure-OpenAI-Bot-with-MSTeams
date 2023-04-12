@@ -3,14 +3,6 @@
 
 Welcome to the Azure OpenAI workshop! In this workshop, you will learn how to use the Azure OpenAI service to create an AI powered solution. You will get hands-on experience with the latest AI technologies and will learn how to use Azure OpenAI API.
 
-Prerequisites
-To fully participate in this workshop, you should have:
-
-1. Basic understanding of AI and Machine Learning
-2. Basic knowledge of Python Programming
-3. An Azure account (sign up for a free trial if you don't have one already)
-4. Access to Azure OpenAI service
-
 ## Structure
 - teams-bot
 - openai-model
