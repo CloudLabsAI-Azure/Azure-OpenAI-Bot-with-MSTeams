@@ -18,7 +18,10 @@
       {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/main/02.md",
         "Order": 4
-      }
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/main/03.md",
+        "Order": 5
+      },
     ]
   }
 ]
