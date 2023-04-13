@@ -1,4 +1,4 @@
-# Exercise 1: Getting Started with Azure
+# Getting Started with Azure
 
 ## Overview
 
