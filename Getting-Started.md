@@ -23,7 +23,7 @@ In this exercise, you will log in to the Azure Portal and review the pre-deploye
 
 1. Open Azure Portal from the desktop by double-clicking on it.
     
-   ![](Images/azure%20portal.png)
+   ![](Images/azureportal.png)
    
 2. On the **Sign into Microsoft Azure** tab, you will see the login screen, enter the following username, and, then click on **Next**.
 
