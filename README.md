@@ -31,7 +31,6 @@ OpenAI's AI-powered chatbots can provide real-time support and guidance, allowin
   - Test the locally-deployed API with specified request/response formats
   - Deploy the model on Azure App Service
   - Test the cloud-deployed API with specified request/response formats
-  - Setup email automation workflow on Azure Logic Apps using 
 
 ## Exercise 3. Deploying the chatbot on Azure Bot Service and Azure App Service. 
   - Explore the chatbot codebase to understand user journey and dialogue development 
