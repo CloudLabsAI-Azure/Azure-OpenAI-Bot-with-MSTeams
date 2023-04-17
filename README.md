@@ -55,3 +55,5 @@ OpenAI's AI-powered chatbots can provide real-time support and guidance, allowin
   - Update the configuration file with newly generated credentials 
   - Deploy the chatbot on Azure Bot Service and Azure App Service
   - Publish the chatbot on Microsoft Teams channel using a manifest file
+  - Add more knowldge base documents using Azure Logic Apps.
+
