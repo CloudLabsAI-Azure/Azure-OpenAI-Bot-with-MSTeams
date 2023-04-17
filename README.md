@@ -14,7 +14,12 @@ Welcome to the Azure OpenAI workshop! In this workshop, you will learn how to us
   - requirements.txt
   - README.md
 
+OpenAI's advanced language processing capabilities can greatly benefit ITSM use cases for knowledge workers. By integrating OpenAI's natural language
+processing (NLP) models, ITSM systems can better understand and respond to queries, resulting in improved efficiency and effectiveness. Additionally,
+OpenAI's AI-powered chatbots can provide real-time support and guidance, allowing IT staff to prioritize more complex tasks.
 
+ ![](Images/diagram.png)
+ 
 ## Exercise 1. Leveraging an OpenAI model to create extract data and create embeddings.
   - Install all the required libraries using requirements.txt file
   - Update the configuration file with newly generated credentials 
