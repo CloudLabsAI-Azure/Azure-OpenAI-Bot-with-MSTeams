@@ -11,6 +11,7 @@ Welcome to the Azure OpenAI workshop! In this workshop, you will learn how to us
   - flask-app
   - outputs
   - config.py
+  - create-services.py
   - requirements.txt
   - README.md
 
