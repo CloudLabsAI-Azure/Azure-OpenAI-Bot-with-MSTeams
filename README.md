@@ -45,13 +45,13 @@ OpenAI's AI-powered chatbots can provide real-time support and guidance, allowin
   - Experiment with notebooks to explore data and model 
   - Review all the modules
 
-## Exercise 2. Deploying the model using Flask framework locally and on Azure App Service. Setting up Email Automation Workflow on Azure Logic.
+## Exercise 2. Deploying the model using Flask framework locally and on Azure App Service. 
   - Deploy the model by running the Flask wrapper locally
   - Test the locally-deployed API with specified request/response formats
   - Deploy the model on Azure App Service
   - Test the cloud-deployed API with specified request/response formats
 
-## Exercise 3. Deploying the chatbot on Azure Bot Service and Azure App Service. 
+## Exercise 3. Deploying the chatbot on Azure Bot Service and Azure App Service. Setting up Email Automation Workflow on Azure Logic.
   - Explore the chatbot codebase to understand user journey and dialogue development 
   - Update the configuration file with newly generated credentials 
   - Deploy the chatbot on Azure Bot Service and Azure App Service
