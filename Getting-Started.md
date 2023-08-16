@@ -49,7 +49,7 @@ In this exercise, you will log in to the Azure Portal and review the pre-deploye
 
    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-rg.png?raw=true)
  
- 1. We have pre-deployed all the required resource already and you will be usinh them thorughout the lab.
+ 1. We have already pre-deployed all the required resources, which you will be using throughout the lab.
  
  ## Summary
 
