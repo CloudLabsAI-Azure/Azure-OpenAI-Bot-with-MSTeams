@@ -16,7 +16,7 @@ In this exercise, you will log in to the Azure Portal and review the pre-deploye
     
 1. You can also open the Lab Guide in a separate full window by selecting the **Split Window** icon at the top right corner.
 
-    ![](Images/split.png) 
+    ![](Images/POWER(1).png) 
     
     
 ## Task 1: Log in to Azure Portal and verify the pre-deployed resources
