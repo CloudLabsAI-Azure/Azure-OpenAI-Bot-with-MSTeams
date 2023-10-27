@@ -8,13 +8,13 @@ In this exercise, you will log in to the Azure Portal and review the pre-deploye
 
 1. Once the environment is provisioned, a virtual machine and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab.
 
-    ![](Images/getting.png)
+    ![](Images/bot(1).png)
 
 1. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be emailed to your email address provided at registration.
 
-    ![](Images/envdetails.png)
+    ![](Images/1.png)
     
-1. You can also open the Lab Guide in a separate full window by selecting the **Split Window** icon at the bottom right corner.
+1. You can also open the Lab Guide in a separate full window by selecting the **Split Window** icon at the top right corner.
 
     ![](Images/split.png) 
     
@@ -23,7 +23,7 @@ In this exercise, you will log in to the Azure Portal and review the pre-deploye
 
 1. Open Azure Portal from the desktop by double-clicking on it.
     
-   ![](Images/azureportal.png)
+   ![](Images/bot(2).png)
    
 2. On the **Sign into Microsoft Azure** tab, you will see the login screen, enter the following username, and, then click on **Next**.
 
