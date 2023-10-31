@@ -36,10 +36,10 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
  
     ![](Images/bot(2).png)
 
- 2. On the **Sign into Microsoft Azure** tab, you will see the login screen, enter the following username, and, then click on **Next**.
+2. On the **Sign into Microsoft Azure** tab, you will see the login screen, enter the following username, and, then click on **Next**.
 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
-
+  
    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/raw/main/media/M2-Ex1-portalsignin-1.png?raw=true)
 
 3. Now enter the following password and click on **Sign in**. 
