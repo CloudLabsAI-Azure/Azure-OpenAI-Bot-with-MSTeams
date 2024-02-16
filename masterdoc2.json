@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Azure-OpenAI-Bot-with-MSTeams",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/guided-labs/README.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/guided-labs/Getting-Started.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/guided-labs/02.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/guided-labs/03.md",
+        "Order": 4
+      },
+    ]
+  }
+]
