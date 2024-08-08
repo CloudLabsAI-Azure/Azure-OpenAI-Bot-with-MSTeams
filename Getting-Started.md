@@ -18,9 +18,23 @@ Learn to leverage an OpenAI model to extract data and create embeddings, deploy 
 
 1. **Deploying the chatbot on Azure Bot Service and Azure App Service and Setting up Email Automation Workflow on Azure Logic:** Deploy the chatbot on Azure Bot Service and Azure App Service, and set up an email automation workflow using Azure Logic Apps for seamless communication. Participants will successfully deploy a chatbot on Azure Bot Service and Azure App Service, and set up an email automation workflow using Azure Logic Apps for integrated communication and automation.
 
+## Prerequisites
+
+Participants should have:
+
+- **Understanding of AI and Machine Learning:** Basic knowledge of data extraction and embeddings with OpenAI models.
+- **Proficiency in Python and Flask:** Experience in building and deploying web applications using Flask.
+- **Familiarity with Azure Services:** Knowledge of Azure App Service, Azure Bot Service, and Azure Logic Apps.
+- **Web Development Skills:** Experience in developing and managing web-based applications.
+- **Cloud Deployment Skills:** Basic understanding of deploying applications on cloud platforms like Azure.
+
+## Architecture
+
 ## Architecture Diagram
 
 ![](Images/diagram.png)
+
+## Explanation of Components
 
 ## Getting Started with the Lab
 
