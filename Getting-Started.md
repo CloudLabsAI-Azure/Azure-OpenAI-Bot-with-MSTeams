@@ -90,6 +90,8 @@ The architecture involves using **Azure OpenAI Service** to provide advanced AI 
    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-rg.png?raw=true)
  
 8. We have already pre-deployed all the required resources, which you will be using throughout the lab.
+
+By completing these exercises, participants will integrate OpenAI models for data processing, deploy and scale applications using Flask and Azure App Service, and automate communication workflows through Azure Bot Service and Azure Logic Apps.
  
 ## Support Contact
  
