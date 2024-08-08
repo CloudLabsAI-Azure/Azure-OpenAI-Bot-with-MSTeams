@@ -4,23 +4,19 @@
     "Language": "English",
     "Files": [
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/main/README.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/main/Getting-Started.md",
         "Order": 1
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/main/Getting-Started.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/main/01.md",
         "Order": 2
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/main/01.md",
-        "Order": 3
-      },
-      {
         "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/main/02.md",
-        "Order": 4
+        "Order": 3
       },{
         "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Azure-OpenAI-Bot-with-MSTeams/main/03.md",
-        "Order": 5
+        "Order": 4
       },
     ]
   }
