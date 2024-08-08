@@ -1,10 +1,14 @@
-# Getting Started with Azure
+# Empower Knowledge Workers using Azure OpenAI with MS Teams and Azure Bot Service
+
+### Overall Estimated Duration: 4 hours
 
 ## Overview
 
-In this exercise, you will log in to the Azure Portal and review the pre-deployed resources as part of the lab environment.
+## Architecture Diagram
 
-### Getting Started with Lab
+![](Images/diagram.png)
+
+## Getting Started with the Lab
 
 1. Once the environment is provisioned, a virtual machine and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab.
 
@@ -19,7 +23,7 @@ In this exercise, you will log in to the Azure Portal and review the pre-deploye
     ![](Images/split.png) 
     
     
-## Task 1: Log in to Azure Portal and verify the pre-deployed resources
+## Login to Azure Portal and verify the pre-deployed resources
 
 1. Open Azure Portal from the desktop by double-clicking on it.
     
@@ -45,13 +49,21 @@ In this exercise, you will log in to the Azure Portal and review the pre-deploye
 
 6. If a **Welcome to Microsoft Azure** popup window appears, click **Cancel** to skip the tour.
 
-1. Now you can see Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
+7. Now you can see Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
 
    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-rg.png?raw=true)
  
- 1. We have already pre-deployed all the required resources, which you will be using throughout the lab.
+8. We have already pre-deployed all the required resources, which you will be using throughout the lab.
  
- ## Summary
+## Support Contact
+ 
+The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
 
-* In this exercise, you signed into the Azure Portal and reviewed the pre-deployed resources.
+Learner Support Contacts:
+- Email Support: labs-support@spektrasystems.com
+- Live Chat Support: https://cloudlabs.ai/labs-support
+
+Now, click on **Next** from the lower right corner to move on to the next page.
+
+### Happy Learning!!
 
