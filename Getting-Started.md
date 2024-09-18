@@ -44,19 +44,33 @@ The architecture involves using **Azure OpenAI Service** to provide advanced AI 
 - **Azure Bot Service:** Enables you to deploy, manage, and integrate the chatbot into various channels, including Microsoft Teams and web applications. This service provides tools for creating and maintaining conversational AI solutions.
 - **Azure Logic Apps:** Facilitates the creation of automated workflows, including email automation. You’ll use Logic Apps to set up workflows that automate email notifications and other processes triggered by events or data changes.
 
-## Getting Started with the Lab
+## Getting Started with Lab
 
-1. Once the environment is provisioned, a virtual machine and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab.
+Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
 
-    ![](Images/getting.png)
+![](media/getting-started-1.png)
 
-1. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be emailed to your email address provided at registration.
+### Virtual Machine & Lab Guide
 
-    ![](Images/envdetails.png)
-    
-1. You can also open the Lab Guide in a separate full window by selecting the **Split Window** icon at the bottom right corner.
+Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
 
-    ![](Images/split.png) 
+## Exploring Your Lab Resources
+
+To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab.
+
+![](media/getting-started-2.png)
+
+## Utilizing the Split Window Feature
+
+For convenience, you can open the lab guide in a separate window by selecting the Split Window button from the top right corner.
+
+![](media/getting-started-3.png)
+
+## Managing Your Virtual Machine
+
+Feel free to start, stop, or restart your virtual machine as needed from the Resources tab. Your experience is in your hands!
+
+![](media/getting-started-5.png)
     
     
 ## Login to Azure Portal and verify the pre-deployed resources
@@ -65,31 +79,37 @@ The architecture involves using **Azure OpenAI Service** to provide advanced AI 
     
    ![](Images/azureportal.png)
    
-2. On the **Sign into Microsoft Azure** tab, you will see the login screen, enter the following username, and, then click on **Next**.
+1. On the **Sign into Microsoft Azure** tab, you will see the login screen, enter the following username, and, then click on **Next**.
 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/raw/main/media/M2-Ex1-portalsignin-1.png?raw=true)
 
-3. Now enter the following password and click on **Sign in**. 
+1. Now enter the following password and click on **Sign in**. 
 
    * Password: <inject key="AzureAdUserPassword"></inject>
 
    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-portalsignin-2.png?raw=true)
+   
+1. Now enter the following password and click on **Sign in**.
+   
+   * **Password**: <inject key="AzureAdUserPassword"></inject>
+   
+      ![](media/user-pass.png "Enter Password")
 
-4. If you see the pop-up **Stay Signed in?**, click on **No**.
+1. If you see the pop-up **Stay Signed in?**, click on **No**.
 
    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/raw/main/media/M2-Ex1-portalsignin-3.png?raw=true)
 
-5. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
+1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
-6. If a **Welcome to Microsoft Azure** popup window appears, click **Cancel** to skip the tour.
+1. If a **Welcome to Microsoft Azure** popup window appears, click **Cancel** to skip the tour.
 
-7. Now you can see Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
+1. Now you can see Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
 
    ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-rg.png?raw=true)
  
-8. We have already pre-deployed all the required resources, which you will be using throughout the lab.
+1. We have already pre-deployed all the required resources, which you will be using throughout the lab.
 
 By completing these exercises, participants will integrate OpenAI models for data processing, deploy and scale applications using Flask and Azure App Service, and automate communication workflows through Azure Bot Service and Azure Logic Apps.
  
