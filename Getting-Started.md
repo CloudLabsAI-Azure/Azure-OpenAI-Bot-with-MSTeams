@@ -48,7 +48,7 @@ The architecture involves using **Azure OpenAI Service** to provide advanced AI 
 
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
 
-![](media/getting-started-1.png)
+![](Images/lab-guide-01.png)
 
 ### Virtual Machine & Lab Guide
 
@@ -58,48 +58,46 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
 
 To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab.
 
-![](media/getting-started-2.png)
+![](Images/env-01.png)
 
 ## Utilizing the Split Window Feature
 
 For convenience, you can open the lab guide in a separate window by selecting the Split Window button from the top right corner.
 
-![](media/getting-started-3.png)
+![](Images/split-01.png)
 
 ## Managing Your Virtual Machine
 
-Feel free to start, stop, or restart your virtual machine as needed from the Resources tab. Your experience is in your hands!
+Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
 
-![](media/getting-started-5.png)
+![](Images/resourses.png)
     
     
 ## Login to Azure Portal and verify the pre-deployed resources
 
 1. Open Azure Portal from the desktop by double-clicking on it.
     
-   ![](Images/azureportal.png)
+   ![](Images/azure-portal-edge.png)
    
 1. On the **Sign into Microsoft Azure** tab, you will see the login screen, enter the following username, and, then click on **Next**.
 
-   * Email/Username: <inject key="AzureAdUserEmail"></inject>
+   * **Email/Username**: <inject key="AzureAdUserEmail"></inject>
 
-   ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/raw/main/media/M2-Ex1-portalsignin-1.png?raw=true)
-
-1. Now enter the following password and click on **Sign in**. 
-
-   * Password: <inject key="AzureAdUserPassword"></inject>
-
-   ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-portalsignin-2.png?raw=true)
+     ![](Images/user-email.png)
    
 1. Now enter the following password and click on **Sign in**.
    
    * **Password**: <inject key="AzureAdUserPassword"></inject>
    
-      ![](media/user-pass.png "Enter Password")
+     ![](Images/user-pass.png "Enter Password")
+
+1. If you see the pop-up Action Required, click Ask Later.
+
+   ![](Images/asklater.png)
+
+   >**NOTE:** Do not enable MFA, select **Ask Later**.
 
 1. If you see the pop-up **Stay Signed in?**, click on **No**.
-
-   ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/raw/main/media/M2-Ex1-portalsignin-3.png?raw=true)
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
