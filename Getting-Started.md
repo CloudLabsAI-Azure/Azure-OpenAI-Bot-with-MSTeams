@@ -38,6 +38,8 @@ The architecture involves using **Azure OpenAI Service** to provide advanced AI 
 
 ## Explanation of Components
 
+The architecture for this lab involves the following key components:
+
 - **Azure OpenAI Service:** Provides access to OpenAI models for tasks such as data extraction and creating embeddings. This service enables you to leverage advanced AI capabilities for processing and analyzing data.
 - **Flask Framework:** A lightweight Python web framework used to build and deploy the OpenAI model locally. It also facilitates the deployment of the model on Azure App Service by creating a web application that interfaces with the AI model.
 - **Azure App Service:** A fully managed platform for building, deploying, and scaling web apps. You'll use Azure App Service to host the Flask application and deploy the OpenAI model in a scalable and secure environment.
@@ -48,7 +50,7 @@ The architecture involves using **Azure OpenAI Service** to provide advanced AI 
 
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
 
-![](Images/lab-guide-01.png)
+![](Images/getting.png)
 
 ### Virtual Machine & Lab Guide
 
