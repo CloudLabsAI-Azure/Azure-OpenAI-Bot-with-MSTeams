@@ -56,5 +56,14 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 6. Click **Next** from the bottom right corner to embark on your Lab journey!
  
      ![Start Your Azure Journey](Images/next.png)
+
+   Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
+
+## Support Contact
  
-Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
+The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
+
+Learner Support Contacts:
+- Email Support: cloudlabs-support@spektrasystems.com
+- Live Chat Support: https://cloudlabs.ai/labs-support
+ 
