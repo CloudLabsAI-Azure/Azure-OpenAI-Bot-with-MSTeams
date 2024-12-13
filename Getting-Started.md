@@ -50,7 +50,7 @@ The architecture for this lab involves the following key components:
 
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
 
-![](Images/getting.png)
+![](Images/getting-1.png)
 
 ### Virtual Machine & Lab Guide
 
