@@ -54,7 +54,9 @@ Once you're ready to dive in, your virtual machine and lab guide will be right a
 
 ### Virtual Machine & Lab Guide
 
-Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
+In the integrated environment, the lab VM serves as the designated workspace, while the lab guide is accessible on the right side of the screen.
+
+**Note**: Kindly ensure that you are following the instructions carefully to ensure the lab runs smoothly and provides an optimal user experience.
 
 ## Exploring Your Lab Resources
 
@@ -122,5 +124,7 @@ Learner Support Contacts:
 - Live Chat Support: https://cloudlabs.ai/labs-support
 
 Now, click on **Next** from the lower right corner to move on to the next page.
+
+  ![](Images/n14.png)
 
 ### Happy Learning!!
