@@ -27,7 +27,7 @@ The architecture integrates Azure OpenAI Service with Azure Machine Learning Stu
 
 ## Architecture Diagram
 
-![](Images/n28.png)
+![](Images/n28.PNG)
 
 ## Explanation of Components
 
