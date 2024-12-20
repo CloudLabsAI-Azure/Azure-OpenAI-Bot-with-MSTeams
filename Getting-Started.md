@@ -52,7 +52,7 @@ Once you're ready to dive in, your virtual machine and lab guide will be right a
 
 ![](Images/getting-1.png)
 
-### Virtual Machine & Lab Guide
+## Virtual Machine & Lab Guide
 
 In the integrated environment, the lab VM serves as the designated workspace, while the lab guide is accessible on the right side of the screen.
 
@@ -69,6 +69,12 @@ To get a better understanding of your lab resources and credentials, navigate to
 For convenience, you can open the lab guide in a separate window by selecting the Split Window button from the top right corner.
 
 ![](Images/split-01.png)
+
+## Lab Guide Zoom In/Zoom Out
+ 
+To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+
+![](Images/n21.png)  
 
 ## Managing Your Virtual Machine
 
