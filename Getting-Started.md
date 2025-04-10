@@ -1,6 +1,6 @@
 # Empower Knowledge Workers using Azure OpenAI with MS Teams and Azure Bot Service
 
-### Overall Estimated Duration: 4 hours
+### Overall Estimated Duration: 8 hours
 
 ## Overview
 
@@ -60,19 +60,19 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
 
 To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab.
 
-![](Images/env-01.png)
+![](Images/environment.png)
 
 ## Utilizing the Split Window Feature
 
 For convenience, you can open the lab guide in a separate window by selecting the Split Window button from the top right corner.
 
-![](Images/split-01.png)
+![](Images/nleg4.png)
 
 ## Managing Your Virtual Machine
 
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
 
-![](Images/resourses.png)
+![](Images/resources-vm-manage.png)
     
     
 ## Login to Azure Portal and verify the pre-deployed resources
@@ -107,7 +107,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 1. Now you can see Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
 
-   ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-rg.png?raw=true)
+   ![](Images/M2-Ex1-rg.png)
  
 1. We have already pre-deployed all the required resources, which you will be using throughout the lab.
 
@@ -123,5 +123,6 @@ Learner Support Contacts:
 
 Now, click on **Next** from the lower right corner to move on to the next page.
 
-### Happy Learning!!
+![](Images/next-page.png)
 
+### Happy Learning!!
